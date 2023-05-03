@@ -1,0 +1,68 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nim": "1941720160",
+      "nama": "Micin",
+      "alamat": "Malang",
+      "hp": "081216055665",
+      "angkatan": "19",
+      "status": "Aktif"
+    },
+    {
+      "id": 2,
+      "nim": "1941720155",
+      "nama": "Khalid bin walid",
+      "alamat": "Malang",
+      "hp": "082231957772",
+      "angkatan": "20",
+      "status": "Cuti"
+    },
+    {
+      "id": 3,
+      "nim": "1941720441",
+      "nama": "Rifky Arya",
+      "alamat": "Malang",
+      "hp": "082231956446",
+      "angkatan": "19",
+      "status": "Aktif"
+    },
+    {
+      "id": 4,
+      "nim": "1941720122",
+      "nama": "Davin Wibisono",
+      "alamat": "Surabaya",
+      "hp": "082231999999",
+      "angkatan": "21",
+      "status": "Cuti"
+    },
+    {
+      "id": "8",
+      "nim": "12312124",
+      "nama": "Komar Updated",
+      "alamat": "Malang",
+      "hp": "24233534",
+      "angkatan": "21",
+      "status": "Aktif"
+    }
+  ],
+  "dosen": [
+    {
+      "id": 1,
+      "nip": 12345,
+      "nidn": 67890,
+      "nama": "Dosen 3",
+      "pendidikan": "S3"
+    },
+    {
+      "id": "2",
+      "nip": "12456",
+      "nidn": "6789",
+      "nama": "Dosen 2",
+      "pendidikan": "S2"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
